@@ -1,0 +1,14 @@
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/cruv
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.smcbin
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/assets/map.png
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/assets/W.png
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/shruti/Documents/cruv/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
